@@ -39,6 +39,10 @@ h2 {
 	padding-bottom: 3em;
 }
 
+small {
+	color: #5a85a4;
+}
+
 /* Blocks */
 .header {
 	padding-top: 40px;
