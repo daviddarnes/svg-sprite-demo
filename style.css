@@ -43,6 +43,11 @@ small {
 	color: #5a85a4;
 }
 
+a {
+	text-decoration: none;
+	margin-right: 10px;
+}
+
 /* Blocks */
 .main {
 	max-width: 1200px;
@@ -63,8 +68,6 @@ small {
 
 /* Icons */
 .icon {
-	vertical-align: middle;
-	max-width: 34px;
-	max-height: 34px;
-	margin-right: 10px;
+	max-width: 40px;
+	max-height: 40px;
 }
