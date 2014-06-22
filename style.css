@@ -36,7 +36,7 @@ h1 {
 
 h2 {
 	font-size: 1.5em;
-	padding-bottom: 3em;
+	padding-bottom: 1.2em;
 }
 
 small {
@@ -44,6 +44,11 @@ small {
 }
 
 /* Blocks */
+.main {
+	max-width: 1200px;
+	margin: 0 auto;
+}
+
 .header {
 	padding-top: 40px;
 }
@@ -52,4 +57,14 @@ small {
 	padding-left: 40px;
 }
 
-/* SVG */
+.section {
+	padding-bottom: 40px;
+}
+
+/* Icons */
+.icon {
+	vertical-align: middle;
+	max-width: 34px;
+	max-height: 34px;
+	margin-right: 10px;
+}
