@@ -70,4 +70,10 @@ a {
 .icon {
 	max-width: 40px;
 	max-height: 40px;
+	transition: .2s;
+	-webkit-filter: drop-shadow(0 1px 0 #11222d);
+}
+
+a:hover .icon {
+	-webkit-filter: drop-shadow(0 0 4px rgba(167, 214, 255, 0.6));
 }
