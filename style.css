@@ -46,6 +46,8 @@ small {
 a {
 	text-decoration: none;
 	margin-right: 10px;
+	border: 0;
+	display: inline-block;
 }
 
 /* Blocks */
