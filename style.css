@@ -11,9 +11,9 @@ html, body {
 body {
 	-webkit-font-smoothing: antialiased;
 	text-rendering: optimizelegibility;
-	
+
 	background: #1c3444;
-	background: linear-gradient(135deg, #1c3444 0%, #11222d 100%);	
+	background: linear-gradient(135deg, #1c3444 0%, #11222d 100%);
 
 	font-size: 14px;
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -44,8 +44,13 @@ small {
 }
 
 a {
-	text-decoration: none;
+	color: #a7d6f7;
+	text-decoration: underline;
 	margin-right: 10px;
+}
+
+a:hover {
+	color: #5a85a4;
 }
 
 /* Blocks */
