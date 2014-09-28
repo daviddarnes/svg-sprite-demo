@@ -47,6 +47,8 @@ a {
 	color: #a7d6f7;
 	text-decoration: underline;
 	margin-right: 10px;
+	border: 0;
+	display: inline-block;
 }
 
 a:hover {
