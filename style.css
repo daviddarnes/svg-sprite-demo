@@ -75,6 +75,8 @@ a:hover {
 
 /* Icons */
 .icon {
+	height: 50px;
+	width: 50px;
 	transition: .2s;
 	-webkit-filter: drop-shadow(0 1px 0 #11222d);
 }
