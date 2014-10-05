@@ -75,8 +75,8 @@ a:hover {
 
 /* Icons */
 .icon {
-	height: 50px;
-	width: 50px;
+	height: 50px; /* Constrains the SVG to its own viewbox */
+	width: 50px; /* Constrains the SVG to its own viewbox */
 	transition: .2s;
 	-webkit-filter: drop-shadow(0 1px 0 #11222d);
 }
