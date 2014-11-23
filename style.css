@@ -21,6 +21,10 @@ body {
 	text-shadow: 0 1px 0 #11222d;
 }
 
+body * {
+	border: 0; /* Prevents borders in IE 5.5 to 8 */
+}
+
 /* Typography */
 h1, h2 {
 	font-weight: 200;
@@ -47,7 +51,6 @@ a {
 	color: #a7d6f7;
 	text-decoration: underline;
 	margin-right: 10px;
-	border: 0;
 	display: inline-block;
 }
 
