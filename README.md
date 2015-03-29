@@ -1,6 +1,6 @@
 SVG Sprite Demo
 ===============
 
-A demo showing the usage of SVG sprites. To coincide with my tuts+ tutorial.
+An SVG sprite demo for my tutorial [How to Implement Cross-Browser SVG Sprites](https://webdesign.tutsplus.com/tutorials/how-to-implement-cross-browser-svg-sprites--cms-22427)
 
-[View the demo](http://david.darn.es/svg-sprite-demo/)
+[Demo page](http://daviddarnes.github.io/svg-sprite-demo/)
